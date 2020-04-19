@@ -1,0 +1,16 @@
+{
+  "schema": [
+    {
+      "type": "date",
+      "name": "p1"
+    },
+    {
+      "type": "string",
+      "name": "p2"
+    }
+  ],
+  "count": 10000,
+  "threadNum": 5,
+  "topic": ""
+}
+
